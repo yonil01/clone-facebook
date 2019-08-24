@@ -1,0 +1,10 @@
+# Example of .gitignore
+
+# some packages dependencies of javascript
+node_modules
+
+# some packages dependencies of php
+vendor
+
+# enviroment variables
+.env
